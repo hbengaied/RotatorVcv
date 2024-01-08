@@ -1,0 +1,23 @@
+{
+  "slug": "MyPlugin",
+  "name": "MyTest",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "MyTest",
+  "author": "Hicheme",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "MyModule",
+      "name": "MyModule",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
